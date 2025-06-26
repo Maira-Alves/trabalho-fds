@@ -1,6 +1,6 @@
 # Trabalho de Fundamentos de Desenvolvimento de Software
 
-Projeto desenvolvido por **Maira Alves** para a disciplina de Fundamentos de Desenvolvimento de Software (Uninter).
+Projeto desenvolvido por **Maira Alves** para a disciplina de Fundamentos de Desenvolvimento de Software.
 
 ## ✨ Objetivo
 
