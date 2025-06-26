@@ -12,7 +12,7 @@ Criar uma página web simples utilizando HTML, CSS e JavaScript, contendo:
 
 ## 🌐 Acesse o site publicado:
 
-🔗 https://seu-usuario.github.io/trabalho-fds
+🔗 https://maira-alves.github.io/trabalho-fds/
 
 ## 📁 Estrutura do projeto:
 
