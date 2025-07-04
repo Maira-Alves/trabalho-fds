@@ -16,6 +16,17 @@ ul li {
   font-size: 18px;
 }
 
+.link-hobby {
+  text-decoration: none;
+  color: #c71585;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.link-hobby:hover {
+  color: #ff3366; 
+}
+
 table {
   margin: 30px auto;
   border-collapse: collapse;
